@@ -23,7 +23,8 @@
 - **Encourage premium purchases among high-spending groups** (Older Families, Young Families) with bundled offers.
 - **Introduce loyalty programs for budget buyers**, as they contribute the most overall revenue.
 
-
+---
+---
 # **Summary of Loyal Customer Behavior**
 
 ### Most Loyal Customer Segments
@@ -47,7 +48,7 @@
 | **Retirees**                | Mainstream (197)       | Likely buying trusted brands but in lower frequency. |
 | **New Families**            | Low transactions (2)   | Possibly a small segment or newly added customers. |
 
----
+
 ### **Business Recommendations**
 - **Target promotions and loyalty programs towards Older and Young Families** since they have the highest engagement.
 - **Offer exclusive discounts or subscription programs for budget buyers** to retain them as frequent shoppers.
